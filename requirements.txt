@@ -1,0 +1,5 @@
+streamlit==1.21.0
+pandas==1.5.3
+plotly==5.11.0
+scapy==2.5.0
+streamlit-autorefresh==0.0.2
